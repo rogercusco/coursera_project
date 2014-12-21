@@ -7,7 +7,7 @@
 This repository contains R code ("run_analysis.R") that downloads and processes a dataset on Human Activity Recognition Using Smartphones. The script outputs a txt file containing a tidy dataset described in the CodeBook.md.
 The script requires that you have the plyr package installed in R.
 
-The repository also contains a CodeBook.md that provides detailed information on the input and output data used and produced in the script. A sample of tidy dataset that should be obtained from running the R code is also provided (averages_dataset.txt). 
+The repository also contains a CodeBook.md that provides detailed information on the input and output data used and produced in the script. An example of the tidy dataset that should be obtained from running the R code is also provided (averages_dataset.txt). 
 
 #What the script does:
 
